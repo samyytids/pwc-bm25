@@ -1,0 +1,3 @@
+[submodule "pwc-proto"]
+	path = pwc-proto
+	url = git@github.com:samyytids/pwc-proto.git
